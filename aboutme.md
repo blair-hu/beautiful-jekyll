@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Computational Neuroscientist/Vision Researcher
+subtitle: Data scientist and biomedical engineer applying machine learning to solve real-world problems in rehabilitation and beyond.
 published: true
 ---
 
