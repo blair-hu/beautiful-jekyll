@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 subtitle: These are the projects I have worked on...
 published: true
 ---
