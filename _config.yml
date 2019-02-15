@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Blair Hu
+title: Blair H. Hu
 
 # Short description of your site
 description: Data scientist and biomedical engineer applying machine learning to solve challenging real-world problems in healthcare.
@@ -23,10 +23,10 @@ description: Data scientist and biomedical engineer applying machine learning to
 
 # List of links in the navigation bar
 navbar-links:
-  Home:
+  Home: "http://blair-hu.github.io"
   About Me: "aboutme"
-  Research:
-  CV:
+  Research: "research"
+  CV: "http://blair-hu.github.io/files/CV_Blair_Hu.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -53,31 +53,31 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Blair H
+  name: Blair Hu
   email: "blairhu@u.northwestern.edu"
   github: blair-hu    # eg. daattali
   linkedin: blairhu  # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: false
+#   rss: false
+#   facebook: false
   email: true
-  twitter: false
-  google-plus: false
+#   twitter: false
+#   google-plus: false
   github: true
-  reddit: false
+#   reddit: false
   linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
+#   xing: false
+#   stackoverflow: false
+#   snapchat: false
+#   instagram: false
+#   youtube: false
+#   spotify: false
+#   telephone: false
+#   steam: false
+#   twitch: false
+#   yelp: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "blair-hu"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
