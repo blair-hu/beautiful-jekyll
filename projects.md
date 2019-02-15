@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Projects
-subtitle: These are the projects I have worked on...
+subtitle: Ongoing and completed work
 published: true
 ---
+Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en)
+
 **Bayesian Object Recognition**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
 
