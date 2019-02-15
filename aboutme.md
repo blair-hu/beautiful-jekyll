@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Computational Neuroscientist/Vision Researcher
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm now a scientist in the Modeling, Analysis, and Theory team at the [Allen Institute for Brain Science](https://www.alleninstitute.org/what-we-do/brain-science/). Previously, I was a graduate student at Johns Hopkins University where I worked with [Ernst Niebur](http://www.neuroscience.jhu.edu/research/faculty/62) and [Rudiger von der Heydt](http://neuroscience.jhu.edu/research/faculty/89). My [research](https://brianhhu.github.io/research/) focused on modeling the neural mechanisms of perceptual organization and selective attention. I'm interested in the intersection of biological vision and computer vision, and how fundamental principles from computational neuroscience can help us to build machines that see. You can contact me [here](mailto:brian.hsiaochuan.hu@gmail.com).
