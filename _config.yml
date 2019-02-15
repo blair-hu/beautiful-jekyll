@@ -24,8 +24,13 @@ description: Portfolio
 # List of links in the navigation bar
 navbar-links:
   Home: "http://blair-hu.github.io"
+<<<<<<< HEAD
   About Me: "http://blair-hu.github.io/aboutme"
   Research: "http://blair-hu.github.io/research"
+=======
+  About Me: "https://blair-hu.github.io/aboutme/"
+  Research: "https://blair-hu.github.io/research/"
+>>>>>>> b3baea73cc4a4b4cf21f749590b1ae14af438153
   CV: "https://blair-hu.github.io/files/Blair Hu CV Feb 2019.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
