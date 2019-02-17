@@ -24,7 +24,7 @@ Test
 #### *Approach*:
 Test
 
-Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
+Code | [Repository](https://doi.org/10.6084/m9.figshare.5362627) | [Report](http://blair-hu.github.io/files/BHu_OpenSourceDataset_Frontiers2018.pdf)
 
 ### **Bilateral neuromechanical sensor fusion for intent recognition**
 <img style="float: center;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
