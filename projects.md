@@ -7,7 +7,7 @@ published: true
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
 **Open access human movement data for activity prediction**
-<img style="float: right;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
+<img style="float: center;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
 
 *Motivation*: 
 
