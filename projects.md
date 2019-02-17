@@ -6,14 +6,13 @@ published: true
 ---
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
-# **Open access human movement data for activity prediction**
-## *Motivation*: 
+* **Open access human movement data for activity prediction**
+<img style="float: center;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
+* *Motivation*: 
 
-## *Approach*:
+* *Approach*:
 
 During visual perception of complex objects, humans shift their gaze to different regions of a particular object in order to gain more information about that object. We propose a parts-based, Bayesian framework for integrating information across receptive fields and fixation locations in order to recognize objects.
-
-![Fig_BIAS]("http://brianhhu.github.io/img/Fig_BIAS.png")
 
 Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
