@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Data scientist and biomedical engineer interestede in applying machine learning to solve real-world problems in rehabilitation and beyond.
+subtitle: Data scientist and biomedical engineer interested in applying machine learning to solve real-world problems in rehabilitation and beyond.
 published: true
 ---
 
