@@ -6,22 +6,34 @@ published: true
 ---
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
-**Bayesian Object Recognition**
+**Open access human movement data for activity prediction**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
+
+*Motivation*: 
+
+*Approach*:
 
 During visual perception of complex objects, humans shift their gaze to different regions of a particular object in order to gain more information about that object. We propose a parts-based, Bayesian framework for integrating information across receptive fields and fixation locations in order to recognize objects.
 
 Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
-**Figure-Ground Segmentation in Natural Images**
+**Bilateral neuromechanical sensor fusion for intent recognition**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_FG.png" width="250">
+
+*Motivation*:
+
+*Approach*:
 
 Figure-ground segmentation is essential for understanding natural scenes. However, the neural mechanisms of this process remain unclear. We propose a fully image computable model that performs both contour detection and figure-ground segmentation on natural images. We compare our model results to the responses of border-ownership selective neurons and also evaluate our model using the Berkeley Segmentation Dataset (BSDS-300).
 
 Code | [Abstract](http://brianhhu.github.io/files/Hu_COSYNE_Abstract.pdf)
 
-**Contour Integration and Border-Ownership Assignment**
+**Bilateral gait segmentation using a single sensor**
 <img style="float: right;" src="http://brianhhu.github.io/img/Fig_Contour.png" width="250">
+
+*Motivation*:
+
+*Approach*:
 
 We propose a recurrent neural model that explains several sets of neurophysiological results related to contour integration and border ownership assignment using the same network parameters. Our model also provides testable predictions about the role of feedback and attention in different visual areas.
 
