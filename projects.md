@@ -27,7 +27,7 @@ Test
 [Code](https://github.com/blair-hu/OS-Data) | [Data Repository](https://doi.org/10.6084/m9.figshare.5362627) | [Paper](http://blair-hu.github.io/files/BHu_OpenSourceDataset_Frontiers2018.pdf)
 
 ### **Bilateral neuromechanical sensor fusion for intent recognition**
-<img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.jpg" width="500">
+<img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.png" width="500">
 
 #### *Motivation*:
 Test
