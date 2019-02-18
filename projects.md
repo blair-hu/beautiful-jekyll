@@ -17,7 +17,7 @@ Test
 Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
 
 ### **Open access human movement data for activity prediction**
-<img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg" width="250">
+<img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg">
 
 #### *Motivation*: 
 Test
@@ -27,7 +27,7 @@ Test
 Code | [Data Repository](https://doi.org/10.6084/m9.figshare.5362627) | [Paper](http://blair-hu.github.io/files/BHu_OpenSourceDataset_Frontiers2018.pdf)
 
 ### **Bilateral neuromechanical sensor fusion for intent recognition**
-<img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.jpg" width="250">
+<img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.jpg">
 
 #### *Motivation*:
 Test
@@ -37,7 +37,7 @@ Test
 Code | [Paper](http://blair-hu.github.io/files/BHu_BilateralIntentRecognition_Frontiers2018.pdf)
 
 ### **Bilateral gait segmentation using a single sensor**
-<img style="float: center;" src="http://blair-hu.github.io/img/BilateralGaitSegmentation2.png" width="250">
+<img style="float: center;" src="http://blair-hu.github.io/img/BilateralGaitSegmentation2.png">
 
 #### *Motivation*:
 
