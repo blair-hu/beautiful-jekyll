@@ -7,7 +7,6 @@ published: true
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
 ### **Data augmentation and style transfer for prosthesis control using deep learning** 
-<img style="float: center;" src="http://brianhhu.github.io/img/Fig_BIAS.png" width="250">
 
 #### *Motivation*:
 Test
