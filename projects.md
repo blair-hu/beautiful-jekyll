@@ -14,8 +14,6 @@ Test
 #### *Approach*:
 Test
 
-Code | [Report](http://brianhhu.github.io/files/Hu_BIAS_Report.pdf)
-
 ### **Open access human movement data for activity prediction**
 <img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg" width="500">
 
@@ -40,7 +38,8 @@ Test
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralGaitSegmentation2.png" width="500">
 
 #### *Motivation*:
-
+Test
 #### *Approach*:
+Test
 
 [Code](https://github.com/blair-hu/Bilateral-GS) | [Paper](http://blair-hu.github.io/files/BHu_BilateralGaitSegmentation_BioRob2018.pdf)
