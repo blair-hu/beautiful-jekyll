@@ -18,7 +18,6 @@ Test
 
 #### *Motivation*: 
 Benchmark datasets containing high-resolution, device-agnostic neuromechanical signals from unimpaired individuals are critical to helping the wearable robotics community objectively evaluate device performance for a variety of walking-related activities. In addition, rich labeled training data from wearable sensors is valuable for developing activity prediction algorithms. Our contribution, the ENcyclopedia of Able-Bodied Lower-Limb Locomotor Signals (ENABL3S), represents a "best case scenario" (i.e. the device is fully transparent and does not impede movement) for activity prediction and is intended to fill a gap in the field by making this type of data publicly available. 
-
 #### *Approach*:
 We used wearable sensors to collect bilateral myoelectric and kinematic signals (52 channels, 1 kHz) from the lower extremities of ten healthy human subjects as they spontaneously transitioned between locomotor activities including level ground walking and ascending/descending stairs and ramps. The experimenter labeled the ground truth with a key fob. We used a temporal raster plot to highlight different patterns in the neuromechanical signals corresponding to different locomotor activities. The unstructured data were cleaned, organized, validated against results aggregated from previously published biomechanics studies, and hosted on Figshare.
 
@@ -29,7 +28,6 @@ We used wearable sensors to collect bilateral myoelectric and kinematic signals 
 
 #### *Motivation*:
 Walking requires interlimb coordination because the leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who already exhibit exaggerated gait asymmetries. However, state of the art intent recognition (predicting future states using movement-related signals detected before movement completion) algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone and assessed the practical tradeoffs of performing sensor fusion across legs and modalities.
-
 #### *Approach*:
 We used the ENABL3S dataset to systematically compare the effect of sensor fusion across legs (unilateral, contralateral, or bilateral) and modalities (myoelectric, kinematic, inertial, or all) on offline prediction accuracy. We segmented windows before critical gait events, extracted heuristic features, and used PCA for dimensionality reduction. We used k-fold cross-validation to compare different sensor configurations and investigated the effect of data dimensionality on the accuracy of three classifiers (linear discriminant, SVM, and neural network). We performed sequential forward sensor selection to determine the number and type of contralateral sensors needed to signficantly improve accuracy compared to a strictly unilateral setup. Lastly, we collected data from one amputee subject wearing an IMU sensor on his non-prosthesis side as a proof-of-concept for the generalizability and benefit of using bilateral control information in an impaired population. 
 
