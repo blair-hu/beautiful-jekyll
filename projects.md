@@ -37,8 +37,9 @@ We used the ENABL3S dataset to systematically compare the effect of sensor fusio
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralGaitSegmentation2.png" width="500">
 
 #### *Motivation*:
-Test
+Most wearable lower-limb assistive devices use finite-state machine controllers to segment gait into distinct phases with different biomchanical functions and corresponding control laws. Therefore, estimating the current gait phase (e.g. stance, swing) of one or both legs in an accurate and timely manner is necessary for maintaining device safety, function, and efficiency. Specifically, robust identification of double support phase (when both feet are on the ground) can be used to prevent the device from becoming compliant before weight transfer and to synchronize power delivery during terminal stance phase. Existing techniques for bilateral gait segmentation can be cumbersome because they rely on one sensor for each limb. Therefore, we set out to develop a novel method for bilateral gait segmentation using sensor fusion of a single thigh-mounted IMU and depth sensor.
+
 #### *Approach*:
 Test
 
-[Code](https://github.com/blair-hu/Bilateral-GS) | [Paper](http://blair-hu.github.io/files/BHu_BilateralGaitSegmentation_BioRob2018.pdf)
+[Code](https://github.com/blair-hu/Bilateral-GS) | [Paper](http://blair-hu.github.io/files/BHu_BilateralGaitSegmentation_BioRob2018.pdf) | [Presentation](https://drive.google.com/file/d/1RjrIAizBAi3fGsOFgUEA-sWbL05sq_4f/view?usp=sharing)
