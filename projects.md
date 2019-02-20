@@ -28,7 +28,7 @@ We used wearable sensors to collect bilateral myoelectric and kinematic signals 
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.png" width="500">
 
 #### *Motivation*:
-Walking requires interlimb coordination because leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who typicalyl exhibit exaggerated gait assymetries. However, state of the art intent recognition (predicting future states using movement-related signals detected before movement completion) algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone.
+Walking requires interlimb coordination because the leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who already exhibit exaggerated gait asymmetries. However, state of the art intent recognition (predicting future states using movement-related signals detected before movement completion) algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone and assessed the practical tradeoffs of performing sensor fusion across legs and modalities.
 
 #### *Approach*:
 Test 
