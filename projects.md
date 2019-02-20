@@ -17,7 +17,8 @@ Test
 <img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg" width="500">
 
 #### *Motivation*: 
-Wearable lower limb assistive devices have proliferated in recent years and have shown promising potential to restore motor function to impaired individuals; however, it remains difficult to make objective comparisons between devices because data are rarely made publicly available and few devices are suitable for performing many different walking-related activities. Also, to improve device controllability for a variety of walking-related activities without access to a benchmark dataset containing high-resolution, device-agnostic neuromechanical signals from unimpaired individuals. Our contribution is the ENABL3S dataset, is intended to fill this gap. 
+Benchmark datasets containing high-resolution, device-agnostic neuromechanical signals from unimpaired individuals are critical to helping the wearable robotics community objectively evaluate device performance for a variety of walking-related activities. In addition, rich labeled training data from wearable sensors is valuable for developing activity prediction algorithms. Our contribution, the ENcyclopedia of Able-Bodied Lower-Limb Locomotor Signals (ENABL3S), represents a "best case" scenario (i.e. the device is fully transparent) for activity prediction is intended to fill a gap in the field by making this type of data publicly available. 
+
 #### *Approach*:
 Test
 
