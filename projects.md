@@ -13,7 +13,7 @@ Test
 #### *Approach*:
 Test
 
-### **Open access human movement data for activity prediction**
+### **Open access human movement data for improving lower-limb wearable robotics**
 <img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg" width="500">
 
 #### *Motivation*: 
@@ -28,7 +28,8 @@ We used wearable sensors to collect bilateral myoelectric and kinematic signals 
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.png" width="500">
 
 #### *Motivation*:
-Test
+Walking requires interlimb coordination because leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who typicalyl exhibit exaggerated gait assymetries. However, state of the art intent recognition (predicting future states using movement-related signals detected before movement completion) algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone.
+
 #### *Approach*:
 Test 
 
