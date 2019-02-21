@@ -9,7 +9,8 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMA
 ### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition** 
 
 #### *Motivation*:
-Test
+Movement-related signals detected prior to movement completion can be used to train a pattern classification algorithm to predict the upcoming locomotor activity and modulate the assistance pattern for a powered leg prosthesis on a step-by-step basis with a technique called intent recognition. Intent recognition has already enabled amputees to transition intuitively and seamlessly between different pre-programmed activity modes (e.g. level ground, stairs, ramps); however, collecting labeled training data is resource-intensive. Yet, the training data may not generalize well to new patterns at prediction time due to factors such as device configuration (alignment, socket fit), user characteristics (shoe height, height, weight, muscle strength), or environment. Therefore, to demonstrate clinical feasibility new techniques are necessary to show that these algorithms can generalize to these new conditions without placing an unnecessary burden of collecting additional training data.
+
 #### *Approach*:
 Test
 
@@ -27,7 +28,7 @@ We used wearable sensors to collect bilateral myoelectric and kinematic signals 
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.png" width="500">
 
 #### *Motivation*:
-Walking requires interlimb coordination because the leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who already exhibit exaggerated gait asymmetries. However, state of the art intent recognition (predicting future states using movement-related signals detected before movement completion) algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone and assessed the practical tradeoffs of performing sensor fusion across legs and modalities.
+Walking requires interlimb coordination because the leading and trailing legs have distinct biomechanical functions, especially for amputee subjects who already exhibit exaggerated gait asymmetries. However, state of the art intent recognition algorithms have not been systematically applied to bilateral control signals. We tested the hypothesis that including information from both legs would improve accuracy over a controller using unilateral information alone and assessed the practical tradeoffs of performing sensor fusion across legs and modalities.
 #### *Approach*:
 We used the ENABL3S dataset to systematically compare the effect of sensor fusion across legs (unilateral, contralateral, or bilateral) and modalities (myoelectric, kinematic, inertial, or all) on offline prediction accuracy. We segmented windows before critical gait events, extracted heuristic features, and used PCA for dimensionality reduction. We used k-fold cross-validation to compare different sensor configurations and investigated the effect of data dimensionality on the accuracy of three classifiers (linear discriminant, SVM, and neural network). We performed sequential forward sensor selection to determine the number and type of contralateral sensors needed to signficantly improve accuracy compared to a strictly unilateral setup. Lastly, we collected data from one amputee subject wearing an IMU sensor on his non-prosthesis side as a proof-of-concept for the generalizability and benefit of using bilateral control information in an impaired population. 
 
