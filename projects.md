@@ -6,7 +6,7 @@ published: true
 ---
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
-### **Improving generalizability of intent recognition for prosthesis control using neural rendering of sensor data** 
+### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition** 
 
 #### *Motivation*:
 Test
