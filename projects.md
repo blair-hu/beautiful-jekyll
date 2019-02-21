@@ -7,9 +7,9 @@ published: true
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
 ### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition** 
-
+*In progress*
 #### *Motivation*:
-Movement-related signals detected prior to movement completion can be used to train a pattern classification algorithm to predict the upcoming locomotor activity and modulate the assistance pattern for a powered leg prosthesis on a step-by-step basis with a technique called intent recognition. Intent recognition has already enabled amputees to transition intuitively and seamlessly between different pre-programmed activity modes (e.g. level ground, stairs, ramps); however, collecting labeled training data is resource-intensive. Yet, the training data may not generalize well to new patterns at prediction time due to factors such as device configuration (alignment, socket fit), user characteristics (shoe height, height, weight, muscle strength), or environment. Therefore, to demonstrate clinical feasibility new techniques are necessary to show that these algorithms can generalize to these new conditions without placing an unnecessary burden of collecting additional training data.
+Movement-related signals detected prior to movement completion can be used to train a pattern classification algorithm to predict the upcoming locomotor activity and modulate the assistance pattern to control a powered leg prosthesis (i.e. intent recognition). Intent recognition has already enabled amputees to transition intuitively and seamlessly between different pre-programmed activity modes (e.g. level ground, stairs, ramps); however, collecting labeled training data from an impaired population is very tedious. Yet, the training data may not even generalize well to new patterns at prediction time due to factors such as differences in device configuration (alignment, socket fit), user characteristics (shoe height, height, weight, muscle strength), or environment. Therefore, new techniques to improve the generalizability of intent recognition to these new conditions are necessary to show that the algorithms is clinically feasible and does not require an unrealistic amount of training data.
 
 #### *Approach*:
 Test
