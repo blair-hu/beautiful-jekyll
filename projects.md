@@ -6,8 +6,7 @@ published: true
 ---
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
-### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition** 
-*(Ongoing)*
+### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition** *(Ongoing)*
 #### *Motivation*:
 Movement-related signals detected prior to movement completion can be used to train a pattern classification algorithm to predict the upcoming locomotor activity and modulate the assistance pattern to control a powered leg prosthesis (i.e. intent recognition). Intent recognition has already enabled amputees to transition intuitively and seamlessly between different pre-programmed activity modes (e.g. level ground, stairs, ramps); however, collecting labeled training data from an impaired population is very tedious. Yet, the training data may not even generalize well to new patterns at prediction time for both subject-specific and population-pooled classifiers due to factors such as differences in device configuration (alignment, socket fit), user characteristics (shoe height, height, weight, muscle strength), or environment. Therefore, new techniques to improve generalizability to these different conditions are necessary to demonstrate that intent recognition is clinically feasible (i.e. does not require an unrealistic amount of training data).
 
@@ -15,7 +14,6 @@ Movement-related signals detected prior to movement completion can be used to tr
 Test
 
 ### **Open access human movement data for improving lower-limb wearable robotics**
-*(Completed)*
 <img style="float: center;" src="http://blair-hu.github.io/img/OpenSourceDataset1.jpg" width="500">
 
 #### *Motivation*: 
@@ -26,7 +24,6 @@ We used wearable sensors to collect bilateral myoelectric and kinematic signals 
 [Code](https://github.com/blair-hu/OS-Data) | [Data Repository](https://doi.org/10.6084/m9.figshare.5362627) | [Paper](http://blair-hu.github.io/files/BHu_OpenSourceDataset_Frontiers2018.pdf)
 
 ### **Bilateral neuromechanical sensor fusion for intent recognition**
-*(Completed)*
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralIntentRecognition1.png" width="500">
 
 #### *Motivation*:
@@ -37,7 +34,6 @@ We used the ENABL3S dataset to systematically compare the effect of sensor fusio
 [Code](https://github.com/blair-hu/Bilateral-IR) | [Paper](http://blair-hu.github.io/files/BHu_BilateralIntentRecognition_Frontiers2018.pdf)
 
 ### **Bilateral gait segmentation using a single sensor**
-*(Completed)*
 <img style="float: center;" src="http://blair-hu.github.io/img/BilateralGaitSegmentation2.png" width="500">
 
 #### *Motivation*:
