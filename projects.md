@@ -8,6 +8,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMA
 
 ### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition (Ongoing)**
 <img style="float: center;" src="http://blair-hu.github.io/img/GenSensorData.png" width="500">
+
 #### *Motivation*:
 Movement-related signals detected prior to movement completion can be used to train a pattern classification algorithm to predict the upcoming locomotor activity in order to control a powered leg prosthesis (i.e. intent recognition). Intent recognition has already enabled amputees to transition intuitively and seamlessly between different pre-programmed activity modes (e.g. level ground, stairs, ramps); however, collecting labeled training data from an impaired population is very tedious. Yet, the collected training data may not even generalize well to new patterns at prediction time for both personal predictive and population pooled models due to factors such as differences in device configuration (alignment, socket fit), user characteristics (shoe height, body measurements, muscle strength), or environment. Therefore, new techniques to improve generalizability to these different test conditions are necessary to demonstrate that intent recognition is clinically feasible and does not require an unrealistic amount of training data. In two separate but related projects, we attempt to generate realistic prosthesis sensor data that reflects variability (a) across days and users and (b) across proshetic devices.
 
