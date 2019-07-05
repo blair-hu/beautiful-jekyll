@@ -15,7 +15,7 @@ In recent years, rapid development in the field of wearable robotics has led to 
 #### *Approach*:
 The key idea is to build a common latent space between the two device domains and to learn a common language by reconstructing sensor signals in both domains according to two principles: (i) the model should be able to reconstruct sensor data for a given device from a noisy version of it (as in standard denoising auto-encoders) and (ii) the model should be able to reconstruct sensor data given a noisy “back-translation” of itself from the other domain. Using adversarial regularization, we constrain the latent representations from both domains to have the same distribution by using a discriminator trained to identify the domain of a given latent code. This process is repeated iteratively, leading to improvements in the translation model. 
 
-### **Deep generative models with data augmentation to learn robust representations of movement intention for powered leg prostheses**
+### **Deep generative models with data augmentation to synthesize powered leg prosthesis sensor data**
 <img style="float: center;" src="http://blair-hu.github.io/img/RepSignals.png" width="500">
 
 #### *Motivation*:
