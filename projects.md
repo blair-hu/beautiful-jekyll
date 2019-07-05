@@ -6,7 +6,7 @@ published: true
 ---
 Check out my [Google Scholar](https://scholar.google.com/citations?user=t1hINkMAAAAJ&hl=en) profile.
 
-### **Creating a common language between functionally analogous assistive devices**
+### **Creating a common language between functionally analogous assistive devices (Ongoing)**
 
 #### *Motivation*:
 In recent years, rapid development in the field of wearable robotics has led to a proliferation of assistive devices. The perpetual introduction of devices with newer sensors and actuators or improved capabilities is accompanied by the need to develop intuitive, safe, and reliable strategies by which they can be controlled. As a strategy for controlling powered leg prostheses, intent recognition uses movement-related signals detected prior to movement completion to predict the upcoming locomotor activity on a step-by-step basis (e.g. at heel contact and toe off). Usually, labeled examples of each activity are collected as training data for a pattern classification algorithm. Another concern is the lack of generalizability of a trained pattern classification algorithm to changes in the configuration of the device. For instance, the type, number, and location of device-embedded sensors may change as the user’s preferences and needs change. But there are currently no methods for recycling the previously collected training data to make it compatible for a different but functionally analogous device configuration. In a worst case scenario, a very experienced user of one device would have to recollect all his or her training data for a different configuration. 
@@ -14,7 +14,7 @@ In recent years, rapid development in the field of wearable robotics has led to 
 #### *Approach*:
 The key idea is to build a common latent space between the two device domains and to learn a common language by reconstructing sensor signals in both domains according to two principles: (i) the model should be able to reconstruct sensor data for a given device from a noisy version of it (as in standard denoising auto-encoders) and (ii) the model should be able to reconstruct sensor data given a noisy “back-translation” of itself from the other domain. Using adversarial regularization, we constrain the latent representations from both domains to have the same distribution by using a discriminator trained to identify the domain of a given latent code. This process is repeated iteratively, leading to improvements in the translation model. 
 
-### **Neural rendering of prosthesis sensor data for improved generalizability of intent recognition (Ongoing)**
+### **Deep generative models with data augmentation to learn robust representations of movement intention for powered leg prostheses**
 <img style="float: center;" src="http://blair-hu.github.io/img/RepSignals.png" width="500">
 
 #### *Motivation*:
